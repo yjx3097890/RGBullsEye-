@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "38F2164E-D7AD-4500-85B1-553E34BB6B9F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7931CF0-CFC3-4FEC-9F67-94EFF5307B13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RGBullsEye/BevelTextView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F7931CF0-CFC3-4FEC-9F67-94EFF5307B13 - e6c1f86819a16e1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.northWestShadow(radius: CoreGraphics.CGFloat, offset: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.southEastShadow(radius: CoreGraphics.CGFloat, offset: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt; in RGBullsEye.BevelTextView.body.getter : some"
+                  moduleName = "RGBullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanjixian/CODE/sui-materials/03-understanding-swiftui/projects/starter/RGBullsEye/RGBullsEye/BevelTextView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "443">
+               </Location>
+               <Location
+                  uuid = "F7931CF0-CFC3-4FEC-9F67-94EFF5307B13 - 408bd0676817d503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBullsEye.BevelTextView.__preview__body.getter : some"
+                  moduleName = "BevelTextView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanjixian/CODE/sui-materials/03-understanding-swiftui/projects/starter/RGBullsEye/RGBullsEye/BevelTextView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "880">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99294BBE-BD70-4781-B6A6-50D6DB4D46A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RGBullsEye/BevelTextView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "99294BBE-BD70-4781-B6A6-50D6DB4D46A2 - 13972e125c33337a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBullsEye.BevelTextView.body.getter : some"
+                  moduleName = "RGBullsEye"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanjixian/CODE/sui-materials/03-understanding-swiftui/projects/starter/RGBullsEye/RGBullsEye/BevelTextView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1130">
+               </Location>
+               <Location
+                  uuid = "99294BBE-BD70-4781-B6A6-50D6DB4D46A2 - 408bd0676817d545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBullsEye.BevelTextView.__preview__body.getter : some"
+                  moduleName = "BevelTextView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yanjixian/CODE/sui-materials/03-understanding-swiftui/projects/starter/RGBullsEye/RGBullsEye/BevelTextView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
